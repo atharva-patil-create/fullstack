@@ -1,0 +1,16 @@
+{
+  "name": "facebook_clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.7",
+    "vite": "^5.3.5"
+  }
+}
